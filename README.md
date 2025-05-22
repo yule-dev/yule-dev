@@ -18,8 +18,8 @@
 
 
 - 🎓 Ingeniera de Sistemas 
-- 📜 Certificada en Desarrollo de Software
-- 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
+- 🌐 Certificada en Desarrollo de Software
+- 💻 Apasionada por el desarrollo Front-End y el diseño UX/UI
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
