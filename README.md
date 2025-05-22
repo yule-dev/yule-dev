@@ -11,6 +11,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=¡Bienvenid@%2C+soy+Ingeniera+de+Sistemas!;Especializada+en+Desarrollo+de+Software;Me+apasiona+el+desarrollo+Front-End+%F0%9F%92%BB;Soy+creativa+y+detallista+en+UX/UI+%F0%9F%8C%9F;Estoy+aprendiendo+y+creciendo+cada+d%C3%ADa+%F0%9F%8C%8D">
   </a>
 </p>
+<picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
+<h2>Sobre Mi</h2>
+
+<br>
+
+
+- 🎓 Ingeniera de Sistemas 
+- 📜 Certificada en Desarrollo de Software
+- 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
+- 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
+- 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
+- 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
+
+
+
+<br><br>
+
 
 <div align='center'>
   
