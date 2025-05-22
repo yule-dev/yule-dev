@@ -1,8 +1,12 @@
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <h1 align="center"><b>Hola , Soy Yuleidis Castro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=¡Bienvenid@%2C+soy+Ingeniera+de+Sistemas!;Especializada+en+Desarrollo+de+Software;Me+apasiona+el+Front-End+%F0%9F%92%BB;Soy+creativa+y+detallista+en+UX/UI+%F0%9F%8C%9F;Estoy+aprendiendo+y+creciendo+cada+d%C3%ADa+%F0%9F%8C%8D">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=¡Bienvenid@%2C+soy+Ingeniera+de+Sistemas!;Especializada+en+Desarrollo+de+Software;Me+apasiona+el+desarrollo+Front-End+%F0%9F%92%BB;Soy+creativa+y+detallista+en+UX/UI+%F0%9F%8C%9F;Estoy+aprendiendo+y+creciendo+cada+d%C3%ADa+%F0%9F%8C%8D">
   </a>
 </p>
 
