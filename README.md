@@ -4,11 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center"><b>Hola , Soy Yuleidis Castro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy Yuleidis Castro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=¡Bienvenid@%2C+soy+Ingeniera+de+Sistemas!;Especializada+en+Desarrollo+de+Software;Me+apasiona+el+desarrollo+Front-End+%F0%9F%92%BB;Soy+creativa+y+detallista+en+UX/UI+%F0%9F%8C%9F;Estoy+aprendiendo+y+creciendo+cada+d%C3%ADa+%F0%9F%8C%8D">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=¡Bienvenid@%2C+soy+Ingeniera+de+Sistemas!;Enfocada+en+Desarrollo+de+Software;Me+apasiona+el+desarrollo+Front-End+%F0%9F%92%BB;Soy+creativa+y+detallista+en+UX/UI+%F0%9F%8C%9F;Estoy+aprendiendo+y+creciendo+cada+d%C3%ADa+%F0%9F%8C%8D">
   </a>
 </p>
 
@@ -18,13 +18,11 @@
 
 
 - 🎓 Ingeniera de Sistemas 
-- 🌐 Certificada en Desarrollo de Software
-- 💻 Apasionada por el desarrollo Front-End y el diseño UX/UI
+- 💻 Certificada Desarrollo de Software
+- 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
-
-
 
 <br><br>
 
