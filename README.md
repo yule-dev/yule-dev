@@ -10,8 +10,8 @@
 <br>
 
 
-- 🎓 Ingeniera de Sistemas 
-- 💻 Certificada Desarrollo de Software
+- 🎓 Ingeniera de Sistemas | Systems Engineer
+- 💻 Desarrolladora de Software | Software Developer
 - 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
