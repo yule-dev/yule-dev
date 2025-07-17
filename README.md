@@ -1,4 +1,5 @@
-<h1 align="center">![Mi portada](https://github.com/yule-dev/yule-dev/blob/main/Mi%20Portada.png)</h1>
+![Mi portada](https://github.com/yule-dev/yule-dev/blob/main/Mi%20Portada.png)
+<h2></h2>
 
 <h2>Sobre mi</h2>
 
