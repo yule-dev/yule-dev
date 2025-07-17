@@ -6,7 +6,6 @@
 </p>
 
 <h3>Sobre mi</h3>
-<h2></h2>
 
 - 🎓 Ingeniera de Sistemas 
 - 💻 Desarrolladora de Software
