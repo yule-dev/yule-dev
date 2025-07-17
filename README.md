@@ -1,12 +1,12 @@
 ![Mi portada](https://github.com/yule-dev/yule-dev/blob/main/Mi%20Portada.png)
-<h1 align="center"><b>Hola, Soy Yuleidis Castro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"><b>Hola, Soy Yuleidis Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 </p>
 
-<h2>Sobre Mi</h2>
- <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<h3>Sobre Mi</h3>
+ <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture>
 <br>
 
 
