@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 </p>
 
-<h3>Sobre Mi</h3>
+<h3>Sobre mi</h3>
 
 - 🎓 Ingeniera de Sistemas 
 - 💻 Desarrolladora de Software
