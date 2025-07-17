@@ -6,7 +6,7 @@
 </p>
 
 <h2>Sobre Mi</h2>
- <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+ <picture><img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <br>
 
 
