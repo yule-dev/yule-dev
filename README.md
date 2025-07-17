@@ -6,7 +6,7 @@
 </p>
 
 <h3>Sobre Mi</h3>
-<br>
+
 - 🎓 Ingeniera de Sistemas 
 - 💻 Desarrolladora de Software
 - 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
