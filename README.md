@@ -11,8 +11,7 @@
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
 <h2></h2>
 
-<h2>
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Skills</h2>
+<h2>Skills <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture></h2>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
