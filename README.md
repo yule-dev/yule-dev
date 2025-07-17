@@ -16,13 +16,10 @@
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
+<br>
 
-<br><br>
-
-
-<div align='center'>
-  
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b> Skills</b>
+<div align='center'> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Skills</b>
 <br>
 
 <div align="center">
