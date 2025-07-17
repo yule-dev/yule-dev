@@ -6,14 +6,14 @@
 </p>
 
 <h3>Sobre mi</h3>
-
+<h1></h1>
 - 🎓 Ingeniera de Sistemas 
 - 💻 Desarrolladora de Software
 - 💡 Apasionada por el desarrollo Front-End y el diseño UX/UI
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
-<h1></h1>
+
    <h2><picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Skills</h2>
   
 <div align="center">
