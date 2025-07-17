@@ -14,7 +14,7 @@
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
 <h1></h1>
-   <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Skills</h2>
+   <h2><picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Skills</h2>
   
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
