@@ -13,12 +13,7 @@
 - 🧠 Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
-
-<div align="center">
-  <div style="width:50%; height:2px; background-color:gray; margin-bottom:10px;"></div>
-  <h3>Skills</h3>
-</div>
-
+<br>
 
 <div align="center">
   <hr>
@@ -26,6 +21,7 @@
   <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="70px"></picture>
   <h3>Skills</h3>
   
+<br> 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
