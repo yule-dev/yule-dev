@@ -5,7 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 </p>
 
-<h2>Sobre mi</h2>
+<h3>Sobre mi</h3>
+<h2></h2>
 
 - 🎓 Ingeniera de Sistemas 
 - 💻 Desarrolladora de Software
@@ -14,7 +15,7 @@
 - 🌱 Abierta a nuevas oportunidades para crecer profesional y personalmente
 - 📁 Te invito a conocer [mi portafolio y proyectos destacados](#)
 
-<h2><picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Skills</h2>
+<h2><picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Skills</h2>
   
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
